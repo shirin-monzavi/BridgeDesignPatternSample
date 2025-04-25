@@ -1,10 +1,10 @@
-# 🎨 Bridge Design Pattern with Abstract Factory in C#
+# 🎯 Bridge Design Pattern with Abstract Factory in C#
 
 This sample project demonstrates how to combine the **Bridge** and **Abstract Factory** design patterns in C# to create a flexible and extensible architecture for rendering shapes using different drawing systems (e.g., Windows or Mac).
 
 ---
 
-## 🧠 Design Patterns Used
+## 📌 Design Patterns Used
 
 ### 1. **Bridge Pattern**
 - **Purpose:** Decouples an abstraction (`Shape`) from its implementation (`DrawingImplementor`), allowing them to vary independently.
